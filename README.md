@@ -11,7 +11,7 @@ The Intersections API is a Node.js application that provides an API endpoint for
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/vaishumandloi/MapUp_assignment.git
    ```
 2. Install the dependencies:
    ```bash
